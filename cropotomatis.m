@@ -9,4 +9,4 @@ kontras=imadjust(gray, stretchlim(gray),[]);%perintah untuk penajaman kontras
 imwrite (kontras, strcat('A',num2str(n),'.bmp'));% menyimpan citra baru hasil preprocessing      
 k=k+1; %perintah untuk kenaikan nama file secara berurutan 
 end
-konciasdsadsa
+raga ganteng
